@@ -7,6 +7,7 @@ require("php/functions.php");
 		<meta charset=utf-8/>
 		<title>Welcome to Myazaki Serve!</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/frontpage.css">
 		<!--[if lt IE 9]>
 			<script src="js/html5shiv.js"></script>
 			<script src="js/html5shiv-printshiv.js"></script>

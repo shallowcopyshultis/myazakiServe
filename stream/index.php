@@ -1,12 +1,13 @@
 <?php
-require_once("php/functions.php");
+	require("../php/functions.php");
 ?>
 
-<html>
+<html lang="en">
 	<head>
 		<meta charset=utf-8/>
-		<title>wow. so exstream.</title>
-		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<title>Share the love!</title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/stream.css">
 		<!--[if lt IE 9]>
 			<script src="../js/html5shiv.js"></script>
 			<script src="../js/html5shiv-printshiv.js"></script>
@@ -15,6 +16,14 @@ require_once("php/functions.php");
 		<script src="../js/jquery-1.7.2.js"></script>
 		<script src="../js/jquery-ui-1.8.22.custom.min.js"></script>
 	</head>
+	<body>
+		<div class='banner'>
+			<table align=center class='banner'>
+				<tr><td>This page is under construction.</td></tr>
+				<tr class='smallBanText'><td>Is that cat looking to the left or back into the page?<td></tr>
+			</table>
+		</div>
+	</body>
 </html>
 
 

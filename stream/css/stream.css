@@ -1,0 +1,6 @@
+body {
+	background-color: #3a536d; /*Default bg, similar to the background's base color*/
+	background-image:url("../img/cat stuff, i guess.jpg");
+	background-position: right bottom; /*Positioning*/
+	background-repeat: no-repeat; /*Prevent showing multiple background images*/
+}
