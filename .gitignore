@@ -223,9 +223,3 @@ pip-log.txt
 *.mp4
 *.flv
 *.f4m
-
-#Pictures
-*.png
-*.jpg
-*.jpeg
-*.gif
