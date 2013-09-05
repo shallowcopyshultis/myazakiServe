@@ -1,0 +1,29 @@
+body{
+	background-image:url('../img/vector_arrow.jpg');
+	background-repeat:no-repeat;
+	background-position:right top;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	font-family:Arial, sans-serif;
+}
+
+#main {
+	position: relative;
+    width: 80%;
+    height: 80%;
+	margin: auto;
+	background-color: rgba(0,0,0,0.5);
+}
+
+#list {
+    color:white;
+}
+
+#randWallpapers{
+	text-align: center;
+}
+
+#showList{
+	text-align: center;
+}
