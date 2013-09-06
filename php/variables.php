@@ -1,8 +1,8 @@
 <?php
 
-$SQLcurrentDatabase = 'myazakiServe';
+$SQLcurrentDatabase = 'myazakiserve';
 $SQLusername = 'root';
-$SQLpassword = 'the quick brown fox';
+$SQLpassword = '';
 $SQLhost="localhost"; // Host name
 
 ?>

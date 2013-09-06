@@ -4,3 +4,19 @@ body {
 	background-position: right bottom; /*Positioning*/
 	background-repeat: no-repeat; /*Prevent showing multiple background images*/
 }
+
+A:link {color: #aacccc; text-decoration: underline}
+A:visited {color: #aacccc; text-decoration: underline}
+A:active {background: #FFCC00; text-decoration: underline}
+A:hover {background: #FFCC00; font-weight:bold; color: blue;}
+
+.stretch {
+	width:100%;
+	height:100%;
+}
+
+.movieHeader {
+	text-align: center; 
+	color: #aacccc; 
+	font-size: 20;
+}

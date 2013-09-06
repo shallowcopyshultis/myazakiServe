@@ -5,7 +5,7 @@
 <html lang="en">
 	<head>
 		<meta charset=utf-8/>
-		<title>Share the love!</title>
+		<title>Where is the love?</title>
 		<link rel="stylesheet" type="text/css" href="../css/style.css">
 		<link rel="stylesheet" type="text/css" href="css/stream.css">
 		<!--[if lt IE 9]>
@@ -23,6 +23,7 @@
 				<tr class='smallBanText'><td>Is that cat looking to the left or back into the page?<td></tr>
 			</table>
 		</div>
+		<div class='movieHeader'>Movies</div>
 	</body>
 </html>
 
@@ -33,35 +34,9 @@
 /**
 echo "
 <html>
-	<head>
-		<style type='text/css'>
-			#background {
-				width: 100%; 
-				height: 100%; 
-				position: fixed; 
-				left: 0px; 
-				top: 0px; 
-				z-index: -1;
-			}
 
-			.test {color: red;}
-			
-			A:link {color: #aacccc; text-decoration: underline}
-			A:visited {color: #aacccc; text-decoration: underline}
-			A:active {background: #FFCC00; text-decoration: underline}
-			A:hover {background: #FFCC00; font-weight:bold; color: blue;}
-
-			.stretch {
-				width:100%;
-				height:100%;
-			}
-		</style>
-	</head>";
 echo
 	"<body>
-		<div id='background'>
-			<img src='cat stuff, i guess.jpg' class='stretch' alt=''/>
-		</div>
 		<div id='movieHeader'  style='text-align: center; color: #aacccc; font-size: 20;'>Movies</font></center></div>
 		<div id='movieList' style='color: #aacccc;'>";
 
